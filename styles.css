@@ -1,0 +1,27 @@
+.icono i {
+
+color: #00b9ff;
+}
+.linea i{
+    color: #00b9ff;
+    font-size: 350%;
+    margin-top: -40px;
+}
+h2{
+
+    margin-top: 20px;
+    color: #464696
+}
+.col-4{
+
+    margin-top: 20px;
+}
+.badge {
+   
+    background: #00b9ff; 
+  }
+.console i{
+
+    color: #00b9ff;
+    font-size: 60%;
+}
